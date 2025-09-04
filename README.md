@@ -34,6 +34,9 @@ This project demonstrates the Virtual Machine (VM) placement problem in data cen
 - Python 3.x
 - NumPy
 - Matplotlib
+  
+## colab link
+https://colab.research.google.com/drive/1aTEq9fcU1iWl8amOy4xypnUWsmycZuc3?usp=sharing##scrollTo=rrjlfAkCv9kE
 
 Install requirements:
 ```bash
